@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Cooper-Adams
-- 👀 I’m interested in front-end web development and design.
-- 🌱 I’m currently learning React JS, Ruby on Rails, and more complex JavaScript/HTML/CSS techniques.
-- 💞️ I’m looking to collaborate on projects that will allow me to learn new things. Front-end related projects are the best! But I also feel it is beneficial to have skills in many areas, and I will not shy away from any programming language.
+- 👀 I’m interested in web development and design, as well as data analytics.
+- 🌱 I’m currently exploring SQL and more complex JavaScript/HTML/CSS techniques.
+- 💞️ I’m looking to learn! Familiar with what is previously listed, as well as Python, Java, and C++.
 - 📫 How to reach me: cooperadamsbusiness@gmail.com or https://www.linkedin.com/in/cooper-adams-141980225/
